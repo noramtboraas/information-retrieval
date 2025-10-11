@@ -1,4 +1,4 @@
-# Information Retrieval Assignment 3
+# Information Retrieval- Assignment 2
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.stud.idi.ntnu.no/nmboraas/information-retrieval-assignment-3.git
+git remote add origin https://gitlab.stud.idi.ntnu.no/kirsteth/information-retrieval-assignment-2.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.stud.idi.ntnu.no/nmboraas/information-retrieval-assignment-3/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.stud.idi.ntnu.no/kirsteth/information-retrieval-assignment-2/-/settings/integrations)
 
 ## Collaborate with your team
 
