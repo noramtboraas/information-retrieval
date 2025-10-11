@@ -1,4 +1,5 @@
 # Information Retrieval - Assignments
+This repository contains assignment from the NTNU course TDT4117 - Information Retrieval for the autumn semester of 2025.
 
 ## Assignment 1  
 Tasks in this assignment was:
@@ -19,4 +20,5 @@ Tasks in this assignment was:
 Tasks in this assignment was: 
 - Build a **local association matrix** from Cranfield collection.
 - Compute the **normalized association matrix**.
+
 - Use the normalized matrix to **identify neighborhood terms** for expansion for given queries.
